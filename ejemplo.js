@@ -114,7 +114,7 @@ Menu
       case '5':
         rl.close();
         break;
-      default:
+      default: 
         console.log('Opción no válida. Inténtalo nuevamente.');
         mostrarMenu();
     }
